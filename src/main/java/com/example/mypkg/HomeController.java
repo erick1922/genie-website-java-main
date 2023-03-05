@@ -10,5 +10,8 @@ public class HomeController {
 	   public String index() {
 	      return "Products";
 	}
-
+	@GetMapping(value = "/login")
+	public String LoginInicio() {
+		return "login";
+	}
 }

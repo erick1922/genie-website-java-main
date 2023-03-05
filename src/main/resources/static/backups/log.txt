@@ -1,0 +1,7 @@
+30/3/2017;0:28:31;ERROR: no existe la función public.iud_seriedoc(character, integer, integer, character varying, integer, integer, character varying)
+  Hint: Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+  Position: 15
+30/3/2017;0:42:14;No se ha especificado un valor para el parámetro 9.
+30/3/2017;23:5:19;ERROR: no existe la función public.iud_seriedoc(character, integer, integer, integer, character varying, integer, integer, character varying)
+  Hint: Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+  Position: 15
